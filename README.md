@@ -6,6 +6,7 @@
 - Automatically save your highest score.
 - Switch between the Hard and Easy of the game difficulty.
 - Reset the maximum score and the difficulty of the game.
+- Sound Effects
 
 ## Controls
 - Use arrow keys or A W D S to control the snake's direction.
