@@ -1,4 +1,4 @@
-
+//compile from the terminal: gcc -Wall -Werror main.c -static -O2 -s -o snake && clear && ./snake
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
