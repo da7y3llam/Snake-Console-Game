@@ -1,11 +1,11 @@
 # Snake-Console-Game
 
 ## Features
-- You can use arrow keys and A W D S to control the snake's direction.
-- You can puse the game.
-- Save the maximum score you have reached.
-- Switch between the Hard and Easy for game difficulty.
-- Reset the score and the difficulty of the game.
+- Control the snake's direction using arrow keys and A, W, D, S.
+- Puse the game at any time.
+- Automatically save your highest score.
+- Switch between the Hard and Easy of the game difficulty.
+- Reset the maximum score and the difficulty of the game.
 
 ## Controls
 - Use arrow keys or A W D S to control the snake's direction.
