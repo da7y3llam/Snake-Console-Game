@@ -316,7 +316,8 @@ void Input() {
 			case KEY_SPACE:
 				direction = STOP;
 				break;
-			case '0':
+			case 'X':
+			case 'x':
 				game_over = true;
 				MainMenu();
 				break;
