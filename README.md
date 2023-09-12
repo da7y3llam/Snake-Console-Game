@@ -11,6 +11,7 @@
 ## Controls
 - Use arrow keys or A W D S to control the snake's direction.
 - Use Space key to pause the game.
+- Use X on Linux and ESC on Windows when you're in the game to return to the main menu.
 
 ## License
 This project is licensed under the MIT License.
