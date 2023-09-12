@@ -334,14 +334,12 @@ void Init() {
 	current_tail = 0;
 	food_x = rand() % width;
 	food_y = rand() % height;
-	if (food_y == 5 || food_y == 15)
-			food_y = food_y - 1;
-	
 	game_difficulty = GetGameMode();
-	
 	score = 0;
 	max_score = GetMaxScore();
 	game_over = false;
+	if (food_y == 5 || food_y == 15)
+		food_y ++;
 }
 
 void Draw() {
