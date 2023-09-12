@@ -174,9 +174,6 @@ void Init() {
 	y = height / 2;
 	food_x = rand() % width;
 	food_y = rand() % height;
-	if (game_difficulty == 2)
-		if (food_y == 5 || food_y == 15)
-			food_y += 1;
 	tail_length = 0;
 	current_tail = 0;
 	direction = STOP;
@@ -185,6 +182,9 @@ void Init() {
 	game_over = false;
 	game_difficulty = GetGameMode();
 	isFirstStart = true;
+	if (game_difficulty == 2)
+		if (food_y == 5 || food_y == 15)
+			food_y += 1;
 }
 
 void Draw() {
