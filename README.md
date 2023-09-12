@@ -15,12 +15,12 @@
 ## License
 This project is licensed under the MIT License.
 
-### Screenshots from the game on Windows.
+### Screenshots of the game on Windows.
 ![img1](https://github.com/da7y3llam/Snake-Console-Game/blob/main/images/image1.png)
 ![img2](https://github.com/da7y3llam/Snake-Console-Game/blob/main/images/snake2.png)
 ![img3](https://github.com/da7y3llam/Snake-Console-Game/blob/main/images/snake3.png)
 
-### Screenshots from the game on Linux(Debian 11).
+### Screenshots of the game on Linux (Debian 11).
 ![img1](https://github.com/da7y3llam/Snake-Console-Game/blob/main/images/snake4.png)
 ![img2](https://github.com/da7y3llam/Snake-Console-Game/blob/main/images/snake5.png)
 ![img3](https://github.com/da7y3llam/Snake-Console-Game/blob/main/images/snake6.png)
