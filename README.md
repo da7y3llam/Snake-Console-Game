@@ -4,7 +4,7 @@
 - Control the snake's direction using arrow keys and A, W, D, S.
 - Pause the game at any time.
 - Automatically save your highest score.
-- Switch between the hard and easy game difficulty.
+- Switch between the hard and easy mode.
 - Reset the maximum score and the difficulty of the game.
 - Sound Effects
 
