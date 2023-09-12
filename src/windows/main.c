@@ -184,7 +184,7 @@ void Init() {
 	isFirstStart = true;
 	if (game_difficulty == 2)
 		if (food_y == 5 || food_y == 15)
-			food_y += 1;
+			food_y ++;
 }
 
 void Draw() {
